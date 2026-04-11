@@ -1,0 +1,10 @@
+# 編譯產出
+build/
+*.o
+emulator
+*.exe
+
+
+# VS Code 暫存
+.vscode/ipch/
+.vscode/browse.vc.db
