@@ -4,7 +4,6 @@ build/
 emulator
 *.exe
 
-
 # VS Code 暫存
 .vscode/ipch/
 .vscode/browse.vc.db
